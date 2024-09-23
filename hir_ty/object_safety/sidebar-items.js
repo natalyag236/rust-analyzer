@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["MethodViolationCode","ObjectSafetyViolation"],"fn":["object_safety","object_safety_of_trait_query","object_safety_of_trait_with_callback","object_safety_with_callback"]};
